@@ -29,3 +29,8 @@ title: blank
 (지속해라, 끈기를 가져라)
 
 ### 마지막으로, Leave The Country
+
+### ref
+- [해외취업, 꿈만 꾸지 말고 영리하게 실행하라 - 시몽뷔로 해외취업전문가, VECTIS 대표](https://www.youtube.com/watch?v=p7p-T9aNbjg&t=648s)
+- [How Can I Start My Career in This Crowded Industry? -김미경](https://www.youtube.com/watch?v=jdrOI66Rja4)
+- 
