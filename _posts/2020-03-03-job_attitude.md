@@ -1,6 +1,8 @@
 ---
 layout: post
-title: blank
+title: Attitude in finding a job
+category: job
+tag: strategy
 ---
 
 ### Tip #1. Have a targeted job search strategy

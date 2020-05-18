@@ -1,6 +1,8 @@
 ---
 layout: post
-title: blank
+title: Requirements to be a programmer
+category: job
+tag: requirements
 ---
 
 # Lineplus와 Google의 채용 공고로 알아보는 개발자가 되기 위해서 필요한 것들
