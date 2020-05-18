@@ -29,10 +29,6 @@ nbproject
 *.sublime-workspace
 .idea
 
-# Komodo
-*.komodoproject
-.komodotools
-
 # grunt-html-validation
 validation-status.json
 validation-report.json
@@ -44,3 +40,10 @@ bower_components
 # personal document
 todo.md
 daily/*
+
+# huge filetypes
+*.zip
+
+# spcial one (rolemodel)
+./rastgo.github.io-master/
+./rastgo.github.io-master/*
