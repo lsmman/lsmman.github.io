@@ -27,8 +27,8 @@ version: 1.0.0
 # About/contact
 author:
   name: lsmman
-  description: 덤덤하게 하루에 하나씩, <strong>내 시간을 소중히 다루기</strong>
-  # gravatar:  # md5 hash of your email address
+  description: 덤덤하게 하루에 하나씩. <br><strong>내 시간을 소중히 다루기</strong>
+  gravatar: '3ED74194586384752F59EA320F29FEFE' # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/seunghyun-lim-489708155/
     github:    https://github.com/lsmman
@@ -54,7 +54,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: https://lsmman.github.io/public/img/picture.JPG
-  caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
+  caption: Eiffel Tower, Paris. (2019/08/08)
 
 # Puglins
 mathjax: true # whether support mathjax
