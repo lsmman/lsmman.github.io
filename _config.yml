@@ -1,22 +1,63 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-# relative_permalinks: true
 
-# Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+# Site Info
+title:               lsmman's blog
+tagline:             'Data mining'
+description:         'blog to remember things learned'
 url:                 https://lsmman.github.io
-baseurl:             ''
-paginate:            5
+logo: '/public/logo.png'
+encoding: utf-8
+baseurl: ''
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+version: 1.0.0
+
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name: lsmman
+  description: 덤덤하게 하루에 하나씩, <strong>내 시간을 소중히 다루기</strong>
+  # gravatar:  # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/seunghyun-lim-489708155/
+    github:    https://github.com/lsmman
+    facebook:  https://www.facebook.com/lsmman07
+    #twitter:  <Null>
+    #weibo:    <Null>
+    email:     lsmman07@gmail.com
 
-# Custom vars
-version:             1.0.0
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Contents:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: https://lsmman.github.io/public/img/picture.JPG
+  caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
+
+# Puglins
+mathjax: true # whether support mathjax
+# google_analytics_token: 'UA-91' # not yet
+# disqus_short_name: '' # not yet
+
