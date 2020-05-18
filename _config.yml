@@ -28,7 +28,7 @@ version: 1.0.0
 author:
   name: lsmman
   description: 덤덤하게 하루에 하나씩. <br><strong>내 시간을 소중히 다루기</strong>
-  gravatar: 3ED74194586384752F59EA320F29FEFE # md5 hash of your email address
+  gravatar: 3ed74194586384752f59ea320f29fefe # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/seunghyun-lim-489708155/
     github:    https://github.com/lsmman
