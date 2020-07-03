@@ -41,12 +41,17 @@ author:
 nav:
   Home:           
     - '/'
+  About:          
+    - '/about/'
   Contents:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
-  About:          
-    - '/about/'
+  Categories:
+    - '/blog/categories/'
+  Tags:
+    - '/blog/tags/'
+  
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
