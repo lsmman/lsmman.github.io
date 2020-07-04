@@ -35,7 +35,7 @@
       {% endif %}
     </div>
   </div>
-
+  
   <nav class="sidebar-nav">
     {% for nav in site.nav %}
       {% assign is_relative = nav[1][0] | slice: 0 %}
@@ -59,7 +59,7 @@
               {% assign sub_url = sub_nav[1] | prepend: site.baseurl %}
             {% endif %}
               <a class="sidebar-nav-item sidebar-nav-item-sub {% if page.url == sub_nav[1] %}active{% endif %}" href="{{ sub_url }}">
-                {{ sub_nav[0] }}
+                  {{ sub_nav[0] }}
               </a>
           {% endfor %}
         {% endfor %}

@@ -25,8 +25,6 @@ Thumbs.db
 .tmproj
 *.esproj
 nbproject
-*.sublime-project
-*.sublime-workspace
 .idea
 .sass-cache
 
@@ -45,6 +43,3 @@ daily/*
 # huge filetypes
 *.zip
 
-# spcial one (rolemodel)
-./rastgo.github.io-master/
-./rastgo.github.io-master/*
