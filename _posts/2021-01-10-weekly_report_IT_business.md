@@ -8,15 +8,18 @@ tag: weekly_report
 판데믹이 지속되고 하루 단위로 확산율이 오르락내리락하고 있습니다.
 이같은 흐름 속에서 집 생활, 마스크 착용 등 하나씩 당연해지는 것들이 생겨나고 있고, 이를 놓치지않는 기업들과 사람들에 의해 새로운 흐름이 만들어지고 있습니다.
 
-**▶ 메인 키워드 : Digital Transformation**, **Improving End to end** **customer** **eXperience**
+**▶ 메인 키워드 : Digital Transformation**, **Improving End to end customer eXperience**
+</br>
+</br>
 
-</br></br>
+
 **1. 중국 디지털 위안화 적용 위한 실험 중**
 
 - 디지털 화폐 : 블록체인 기반의 중앙은행의 법정화폐, 액면가가 고정되어 있고 정부가 가치를 보장
 - 외부적인 장점 : 발행 비용 절감, 사용 기록 추적 가능, 빠른 거래 (사회적 비용 감소)
 - 달러 패권에서 벗어나, 디지털 위안화를 세계 기축통화로 만드려는 의도
 </br>
+
 
 **2. 애플카, 현대차 생산 협력 논의 중**
 
@@ -27,6 +30,7 @@ tag: weekly_report
 - 애플의 자금력, 하드웨어 노하우, 생태계 파워와 현대차가 결합해 시너지를 기대
 - https://zdnet.co.kr/view/?no=20201223143620
 </br>
+
 
 **3. 쿠팡도 라이브 커머스에 뛰어듭니다!**
 
@@ -43,6 +47,7 @@ tag: weekly_report
 - https://ebadak.news/2020/12/27/coupang-play/
 </br>
 
+
 **4. 금융 트렌드**
 
 - 금융업과 IT의 경계가 흐려지는 흐름, 금융사 DT에 총력중
@@ -56,12 +61,14 @@ tag: weekly_report
 - https://byline.network/2021/01/05-31/
 </br>
 
+
 **5. CES 2021 1월 11일부터 온라인 개막!**
 
 - 이번 해는 가전제품에 어떤 테크가 결합되었을까
 - 비대면 언택트 트렌드가 어떻게 녹아들어가있을까
 - https://byline.network/2021/01/0106/
 </br>
+
 
 **※ 기타 소식**
 
