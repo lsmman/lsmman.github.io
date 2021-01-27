@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 큰 그림 보기
+title: 큰 그림 보기 [미완 게시글]
 category: data engineering
 tag: architecture
 ---
