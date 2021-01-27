@@ -9,6 +9,7 @@ tag: weekly_report
 이같은 흐름 속에서 집 생활, 마스크 착용 등 하나씩 당연해지는 것들이 생겨나고 있고, 이를 놓치지않는 기업들과 사람들에 의해 새로운 흐름이 만들어지고 있습니다.
 
 **▶ 메인 키워드 : Digital Transformation**, **Improving End to end customer eXperience**
+
 </br>
 </br>
 
