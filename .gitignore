@@ -43,3 +43,6 @@ daily/*
 # huge filetypes
 *.zip
 
+_private/*
+_private
+
