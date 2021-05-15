@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[PS\] Prefix and Suffix Search, leetcode 745
+title: <PS> Prefix and Suffix Search, leetcode 745
 category: Algorithm
 tag: Python
 ---
