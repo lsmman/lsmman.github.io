@@ -6,12 +6,13 @@ tag: Python
 ---
 
 ## 문제 정보
+
 날짜 : 2021-05-15
 문제 : 745. Prefix and Suffix Search
-링크 : https://leetcode.com/problems/prefix-and-suffix-search/
-
+링크 : [Here](https://leetcode.com/problems/prefix-and-suffix-search/)
 
 ## 문제 설명
+
 Design a special dictionary with some words that searchs the words in it by a prefix and a suffix.
 
 Implement the WordFilter class:
@@ -33,6 +34,7 @@ Output
 ```
 
 ## 제약 사항
+
 - 1 <= words.length <= 15000
 - 1 <= words[i].length <= 10
 - 1 <= prefix.length, suffix.length <= 10
@@ -40,9 +42,12 @@ Output
 - At most 15000 calls will be made to the function f.
 
 ## 풀이 방법
+
 ### 1) 풀어내기
+
 - word의 prefix, suffix 일치 여부를 체크해서 index 리턴
 - 단순하게 prefix, suffix 체크하면 다음과 같다
+
 ```python
 def f(self, prefix, suffix):
     for index, word in enumerate(words[::-1]):
@@ -51,7 +56,9 @@ def f(self, prefix, suffix):
             return index
     return -1
 ```
+
 ### 2) 개선하기
+
 - prefix, suffix check가 반복적으로 일어나므로 words를 $O(K)$로 search 할 수 있는 **trie search**를 사용한다.
 - N : word의 개수
 - K : word 중에 최대 길이
@@ -60,12 +67,13 @@ def f(self, prefix, suffix):
 - 공간 복잡도 : $O(NK^2)$
 
 ### 3) How implement simply trie with python?
-- Python에서는 trie를 간단하게 Trie = lambda: collections.defaultdict(Trie)로 구현할 수 있다.
 
+- Python에서는 trie를 간단하게 Trie = lambda: collections.defaultdict(Trie)로 구현할 수 있다.
 
 ----
 
 ## 구현 코드 [(link)](https://github.com/lsmman/All-about-Algorithms/blob/master/leetcode/745.py)
+
 ```python
 import collections
 
@@ -110,6 +118,7 @@ class WordFilter:
 ```
 
 ## 새로 알게 된 것
+
 - 다중 Search에 $O(NK)$ 효율성을 가진 Trie를 다시 학습했다.
 - Python의 Trie 구현이 이렇게 간단하게 가능함을 배웠다. 그 전에 직접 defaultdict로 구현했었는데 다음부터는 간단하게 사용할 수 있겠다.
 - ```Remind "Simple is Best"```
