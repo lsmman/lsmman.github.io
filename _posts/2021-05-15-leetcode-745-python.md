@@ -29,7 +29,7 @@ Input
     output = obj.f(prefix,suffix)
 
 Output
-    0 // index of words, has prefix = "a" and suffix = "e"
+    0 // index 0 of words, has prefix = "a" and suffix = "e"
 ```
 
 ## 제약 사항
