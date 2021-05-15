@@ -62,3 +62,4 @@ mathjax: true # whether support mathjax
 # google_analytics_token: 'UA-91' # not yet
 # disqus_short_name: '' # not yet
 
+excerpt_seperator: <!--break-->

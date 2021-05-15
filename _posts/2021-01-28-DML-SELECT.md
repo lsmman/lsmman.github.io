@@ -11,9 +11,9 @@ tag: study contents
 <!-- https://www.javatpoint.com/sql-tutorial -->
 <!-- https://www.tutorialspoint.com/sql/sql-overview.htm -->
 
+### 참고
 
-#### 참고
-- MySQL official document - https://dev.mysql.com/doc/refman/8.0/en/
-- MySQL tutorial by Guru99 - https://www.guru99.com/sql.html
-- https://www.javatpoint.com/sql-tutorial
-- https://www.tutorialspoint.com/sql/index.htm
+- MySQL official document - [link](https://dev.mysql.com/doc/refman/8.0/en/)
+- MySQL tutorial by Guru99 - [link](https://www.guru99.com/sql.html)
+- [javatpoint-sql-tutorial](https://www.javatpoint.com/sql-tutorial)
+- [tutorialspoint-sql](https://www.tutorialspoint.com/sql/index.html)

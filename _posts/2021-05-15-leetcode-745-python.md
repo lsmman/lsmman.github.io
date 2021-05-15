@@ -1,26 +1,24 @@
 ---
 layout: post
-title: PS - Prefix and Suffix Search, leetcode 745
+title: PS. Prefix and Suffix Search, leetcode 745
 category: Algorithm
 tag: Python
 ---
 
 ## 문제 정보
 
-날짜 : 2021-05-15
-문제 : 745. Prefix and Suffix Search
-링크 : [Here](https://leetcode.com/problems/prefix-and-suffix-search/)
+- 문제 : 745. Prefix and Suffix Search
+- 링크 : [Here](https://leetcode.com/problems/prefix-and-suffix-search/)
 
 ## 문제 설명
 
-Design a special dictionary with some words that searchs the words in it by a prefix and a suffix.
+- Design a special dictionary with some words that searchs the words in it by a prefix and a suffix.
+- Implement the WordFilter class:
 
-Implement the WordFilter class:
+  - WordFilter(string[] words) Initializes the object with the words in the dictionary.
+  - **f(string prefix, string suffix) Returns the index of the word in the dictionary**, which has the prefix prefix and the suffix suffix. If there is more than one valid index, **return the largest** of them. If there is no such word in the dictionary, return -1.
 
-- WordFilter(string[] words) Initializes the object with the words in the dictionary.
-- **f(string prefix, string suffix) Returns the index of the word in the dictionary**, which has the prefix prefix and the suffix suffix. If there is more than one valid index, **return the largest** of them. If there is no such word in the dictionary, return -1.
-
-```python
+```md
 Input
     words = ["apple"]
     prefix = "a"
