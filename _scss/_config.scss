@@ -27,7 +27,6 @@ $reverse-layout: false;
 $overlay-sidebar: true;
 
 /* Font stack */
-$font-serif: "PT Serif", Georgia, "Times New Roman", serif, 'Noto Sans KR';
-$font-sans: "PT Sans", Helvetica, Arial, sans-serif;
+$font-serif: "PT Serif", Georgia, "Times New Roman", serif, 'Noto Sans KR', sans-serif;
+$font-sans: "PT Sans", Helvetica, Arial, sans-serif, 'Noto Sans KR', sans-serif;
 $font-font-awesome: FontAwesome;
-$type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
