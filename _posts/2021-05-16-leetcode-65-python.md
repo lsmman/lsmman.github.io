@@ -13,7 +13,7 @@ tag: Python
 ## 문제 설명
 
 - Valid number인지 체크하고 그에 따른 True/False를 return 하는 문제이다.
-<!--break-->
+<!-- more -->
 - 적절한 숫자의 형태는 다음과 같다
     1. Decimal number나 Integer
     2. 'e'나 'E'를 사용한 숫자 표현 ex) 2e3, -12.2e+5

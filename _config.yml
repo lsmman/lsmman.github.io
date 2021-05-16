@@ -1,7 +1,7 @@
 
 # Site Info
 title:               lsmman's blog
-tagline:             'Data mining'
+tagline:             'backend engineer'
 description:         'blog to remember things learned'
 url:                 https://lsmman.github.io
 logo: '/public/logo.png'
@@ -62,4 +62,3 @@ mathjax: true # whether support mathjax
 # google_analytics_token: 'UA-91' # not yet
 # disqus_short_name: '' # not yet
 
-excerpt_seperator: <!--break-->
