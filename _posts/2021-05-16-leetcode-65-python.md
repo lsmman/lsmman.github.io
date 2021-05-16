@@ -8,7 +8,7 @@ tag: Python
 ## 문제 정보
 
 - 문제 : 65. Valid Number
-- 링크 : [Here](https://leetcode.com/problems/valid-number/)
+- 링크 : [Here](https://leetcode.com/problems/valid-number/) on leetcode
 
 ## 문제 설명
 
@@ -29,27 +29,32 @@ tag: Python
 <details><summary>문제 설명 원문</summary>
 
 A valid number can be split up into these components (in order)
-
+&#13;&#10;
 1. A decimal number or an integer.
+&#13;&#10;
 2. (Optional) An 'e' or 'E', followed by an integer.
-
+&#13;&#10;&#13;&#10;
 A decimal number can be split up into these components (in order):
-
+&#13;&#10;
 1. (Optional) A sign character (either '+' or '-').
+&#13;&#10;
 2. One of the following formats:
+&#13;&#10;
     - At least one digit, followed by a dot '.'.
+    &#13;&#10;
     - At least one digit, followed by a dot '.', followed by at least one digit.
+    &#13;&#10;
     - A dot '.', followed by at least one digit.
-
+&#13;&#10;&#13;&#10;
 An integer can be split up into these components (in order):
-
+&#13;&#10;
 1. (Optional) A sign character (either '+' or '-').
 2. At least one digit.
-
-For example, all the following are valid numbers: ```["2", "0089", "-0.1", "+3.14", "4.", "-.9", "2e10", "-90E3", "3e+7", "+6e-1", "53.5e93", "-123.456e789"]```
-
-while the following are not valid numbers: ```["abc", "1a", "1e", "e3", "99e2.5", "--6", "-+3", "95a54e53"]```
-
+&#13;&#10;&#13;&#10;
+For example, all the following are valid numbers: ["2", "0089", "-0.1", "+3.14", "4.", "-.9", "2e10", "-90E3", "3e+7", "+6e-1", "53.5e93", "-123.456e789"]
+&#13;&#10;
+while the following are not valid numbers: ["abc", "1a", "1e", "e3", "99e2.5", "--6", "-+3", "95a54e53"]
+&#13;&#10;&#13;&#10;
 Given a string s, **return true if s is a valid number.**
 
 </details>
