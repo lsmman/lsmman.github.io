@@ -150,7 +150,7 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 code {
   padding: .25em .5em;
@@ -191,6 +191,12 @@ pre code {
 }
 .highlight pre {
   margin-bottom: 0;
+}
+
+.language-plaintext {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 0.9em;
+  background: #c0ffee;
 }
 
 /* Gist via GitHub Pages */

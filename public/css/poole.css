@@ -154,7 +154,7 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 code {
   padding: .25em .5em;
@@ -187,8 +187,7 @@ pre code {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
-  font-family: 'Noto Sans KR', sans-serif;
-  font-size: 0.9em;
+  
 }
 
 .language-plaintext {
