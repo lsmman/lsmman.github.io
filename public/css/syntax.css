@@ -1,16 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
 
-.highlight {
-    font-family: 'Noto Sans KR', sans-serif;
-    font-size: 0.9em;
-  }
-  
-.language-plaintext {
-    font-family: 'Noto Sans KR', sans-serif;
-    font-size: 0.9em;
-    background: #c0ffee;
-  }
 .highlight .hll { background-color: #ffc; }
 .highlight .c { color: #999; } /* Comment */
 .highlight .err { color: #a00; background-color: #faa } /* Error */

@@ -35,6 +35,10 @@
  * Update the foundational and global aspects of the page.
  */
 
+ @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
+ 
+ 
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -183,7 +187,16 @@ pre code {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 0.9em;
 }
+
+.language-plaintext {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 0.9em;
+  background: #c0ffee;
+}
+
 .highlight pre {
   margin-bottom: 0;
 }
