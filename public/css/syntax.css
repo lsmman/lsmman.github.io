@@ -1,14 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
+/* @import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono); */
 
 
 .highlight {
-    font-family: 'Ubuntu Mono';
-    font-size: 1.12em;
+    font-family: 'Noto Sans KR';
+    font-size: 0.9em;
   }
   
 .language-plaintext {
-    font-family: 'Ubuntu Mono';
-    font-size: 1.12em;
+    font-family: 'Noto Sans KR';
+    font-size: 0.9em;
     background: #c0ffee;
   }
 .highlight .hll { background-color: #ffc; }
