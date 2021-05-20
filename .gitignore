@@ -39,10 +39,13 @@ bower_components
 # personal document
 todo.md
 daily/*
+test/*
 
 # huge filetypes
 *.zip
 
 _private/*
 _private
+
+
 
