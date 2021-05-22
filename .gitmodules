@@ -1,0 +1,3 @@
+[submodule "dev-diary"]
+	path = dev-diary
+	url = https://github.com/lsmman/dev-diary
