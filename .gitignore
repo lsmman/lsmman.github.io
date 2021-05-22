@@ -38,6 +38,7 @@ bower_components
 
 # personal document
 todo.md
+dev-diary
 dev-diary/*
 test/*
 
